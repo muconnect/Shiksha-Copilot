@@ -1,5 +1,5 @@
 export const environment = {
-    production:false,
-    apiUrl:'your_backend_url',
-    CRYPTO_SECRET:'your_crypto_secret'
+    production: false,
+    apiUrl: 'http://localhost:8000/api',
+    CRYPTO_SECRET: 'dev_crypto_secret'
 };

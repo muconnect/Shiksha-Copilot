@@ -19,3 +19,4 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+/shiksha-api/app-service/.venv
